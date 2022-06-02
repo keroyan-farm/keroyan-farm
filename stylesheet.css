@@ -152,6 +152,10 @@
   .lesson-icon {
     position: relative;
   }
+
+  .lesson-icon img {
+    width: 100%;
+  }
   
   .lesson-icon p {
     position: absolute;
